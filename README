@@ -1,0 +1,5 @@
+# Hotone Ampero mini 용 Midi controller 개발
+* 시간 날 때마다 사부작 거리면서 개발 예정
+* FX1, FX2, FX3, DLV, REV ON/OFF
+* FX1, FX2, FX3, DLV, REV 파라미터 조정용 -> 노브 붙여서 세부 파라미터 조정할 수 있게 할려하는데 아직 midi 메세지 쪽도 안봐서 내가 원하는대로 될지는 모르겠음
+* 마음은 PCB하고 3D 프린터 케이싱도 만들어서 뿌릴까 말까 고민중
